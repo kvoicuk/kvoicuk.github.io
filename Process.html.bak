@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC"-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Easter Decoration by Karina</title>
+<style>
+body {
+background: #F2F2F2;
+max-width: 900px;
+margin: 10px auto;
+padding: 30px;
+}
+ 
+h1{
+color: #4C4C4C;
+padding-bottom: 20px;
+margin-bottom: 20px;
+border-bottom: 2px solid #BEBEBE;
+}
+p{
+font:italic;
+}
+</style>
+</head>
+
+
+
+
+
+<body>
+<center>
+<div style="color: #4C4C4C;">
+
+<h1>Easter Decoration by Karina</h1>
+<h2> Process </h2>
+The creation process begins with the purchase of materials. 
+These are acrylic paints, brushed and plastic eggs.
+Next, the first coat of paint is applied. A design is coming up. Each set is individually designed. Created. The finished prduct is packaged in beatiful box with a bow.
+<br></br>
+</div>
+<img src="2a.jpg" width= "450" height="195">
+<br></br>
+<img src="2aa.jpg" width= "450" height="195">
+
+  </center>
+  <h3>
+<div style="color: #4C4C4C;">
+<p>
+<center>
+
+					<nav class="menu">
+					<a href="index.html">Main</a>
+							&nbsp; 									&nbsp;
+					&nbsp;
+						
+							<a href="process.html">Process</a>
+							&nbsp; 									&nbsp;
+					&nbsp;
+
+							<a href="gallery.html">Gallery</a>
+																	&nbsp;
+										&nbsp;
+	&nbsp;
+
+							<a href="contacts.html">Contacts</a>
+						
+					</nav>  </h3>
+					</div style="color: #4C4C4C;">
+					
+					</center>
+</div> 
+
+</p>
+</body>
+
+
+
+
+
+<footer>
+<center>
+<h5>
+©Easter Decoration by Karina. 2022
+</h5>
+</center>
+ </footer>
+
+</html>
